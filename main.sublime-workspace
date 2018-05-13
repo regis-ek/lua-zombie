@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onRouteChange"
+			],
+			[
+				"sign",
+				"signInPassword"
+			],
+			[
+				"sig",
+				"signInPassword"
+			],
+			[
+				"si",
+				"signInEmail"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"body",
+				"body-parser"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"Re",
+				"Register"
+			],
+			[
+				"bottom",
+				"bottomRow"
+			],
+			[
+				"cla",
+				"clarifaiFace"
+			],
+			[
+				"pas",
+				"particleOptions"
+			],
+			[
+				"compon",
+				"compomentDidMount"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"fil",
+				"filterRobots"
+			],
+			[
+				"sea",
+				"searchfield"
+			],
+			[
+				"se",
+				"searchfield"
+			],
+			[
+				"Rea",
+				"React"
+			],
+			[
+				"Card",
+				"CardList"
+			],
+			[
+				"Car",
+				"CardList"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "Love2D",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lov",
+				"Build With: LuaLove - Love2D"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/reg/Documents/Projects/lua-zombie-shoot/main.lua",
+		"/Users/reg/Documents/Projects/lua-start/main.lua",
+		"/Users/reg/Library/Application Support/Sublime Text 3/Packages/User/love-run.sublime-build",
+		"/Users/reg/Library/Application Support/Sublime Text 3/Packages/User/LuaLove.sublime-settings",
+		"/Users/reg/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/reg/Library/Application Support/Sublime Text 3/Packages/Lua Love/LuaLove.sublime-settings",
+		"/Users/reg/Documents/Projects/accelerateJS/testFile.js",
+		"/Users/reg/Documents/Projects/smart-brain-api/package-lock.json",
+		"/Users/reg/Desktop/facerecognition/src/components/Register/Register.js",
+		"/Users/reg/Desktop/smart-brain-api/server.js",
+		"/Users/reg/Desktop/facerecognition/src/components/Signin/Signin.js",
+		"/Users/reg/Desktop/facerecognition/src/App.js",
+		"/Users/reg/Desktop/smart-brain-api/package.json",
+		"/Users/reg/Desktop/node-script/script.js",
+		"/Users/reg/Desktop/node-script/hello.txt",
+		"/Users/reg/Desktop/node/server.js",
+		"/Users/reg/Desktop/node/script.js",
+		"/Users/reg/Desktop/node/script2.js",
+		"/Users/reg/Desktop/node/package.json",
+		"/Users/reg/Desktop/node/service.js",
+		"/Users/reg/Desktop/facerecognition/src/components/Navigation/Navigation.js",
+		"/Users/reg/Desktop/facerecognition/src/components/FaceRecon/FaceRecon.js",
+		"/Users/reg/Desktop/facerecognition/src/components/FaceRecon/FaceRecon.css",
+		"/Users/reg/Desktop/facerecognition/src/components/Register/Register.css",
+		"/Users/reg/Desktop/facerecognition/src/components/Signin/Signin.css",
+		"/Users/reg/Desktop/facerecognition/src/components/Facerecognition/Facecerognition.js",
+		"/Users/reg/Desktop/facerecognition/src/index.css",
+		"/Users/reg/Desktop/facerecognition/src/components/Rank/Rank.js",
+		"/Users/reg/Desktop/facerecognition/src/App.css",
+		"/Users/reg/Desktop/facerecognition/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/Users/reg/Desktop/facerecognition/src/components/ImageLinkForm/ImageLinkForm.css",
+		"/Users/reg/Desktop/facerecognition/src/components/Logo/Logo.css",
+		"/Users/reg/Desktop/facerecognition/src/components/Logo/Logo.js",
+		"/Users/reg/Desktop/facerecognition/src/index.js",
+		"/Users/reg/Desktop/robofriends/src/containers/App.js",
+		"/Users/reg/Desktop/robofriends/src/components/Card.js",
+		"/Users/reg/Desktop/robofriends/src/index.js",
+		"/Users/reg/Desktop/robofriends/src/Scroll.js",
+		"/Users/reg/Desktop/robofriends/src/Card.js",
+		"/Users/reg/Desktop/robofriends/src/CardList.js",
+		"/Users/reg/Desktop/robofriends/src/App.css",
+		"/Users/reg/Desktop/robofriends/src/SearchBox.js",
+		"/Users/reg/Desktop/robofriends/src/index.css",
+		"/Users/reg/Desktop/robofriends/src/App.js",
+		"/Users/reg/Desktop/robofriends/src/robots.js",
+		"/Users/reg/Desktop/robofriends/src/App",
+		"/Users/reg/Desktop/robofriends/src/Hello.js",
+		"/Users/reg/Desktop/robofriends/src/Hello.css",
+		"/Users/reg/Desktop/podpis.html",
+		"/Users/reg/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/reg/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/reg/.config/fish/config.fish",
+		"/Users/reg/Documents/Sublime/index.html",
+		"/Users/reg/Documents/index.html",
+		"/Users/reg/Desktop/js_OutlineSection.md",
+		"/Users/reg/Downloads/exercise7-SOLUTIONS.js",
+		"/Users/reg/Downloads/exercise6-SOLUTIONS.js",
+		"/Users/reg/Downloads/exercise5-SOLUTIONS.js",
+		"/Users/reg/test-projecrt.sublime-project"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 60.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/love-run.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 107.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
